@@ -1,0 +1,10 @@
+{
+
+	"extends": [
+    "@react-native-community",
+    "prettier"
+  ],
+  "plugins": [
+    "prettier"
+  ]
+}
